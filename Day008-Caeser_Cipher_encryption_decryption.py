@@ -25,5 +25,5 @@ while should_continue:
   result = input("Type 'yes' if you want to go again. Otherwise type 'no'\n").lower()
   if result=="no":
     should_continue=False
-    print("Goodbye")
+    print("The code has ended, 🥰Goodbye")
 
