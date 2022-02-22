@@ -2,7 +2,7 @@ from turtle import clear
 from art import logo 
 from art import vs
 from game_data import data 
-from turtle import clear
+from replit import clear
 import random
 
 print(logo)
