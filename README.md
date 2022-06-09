@@ -7,4 +7,9 @@ This repository will store all the related projects. If you are intrested in any
 | 09 | [Secret_Auction_Program](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day009_Secret_Auction_Program)|
 | 10 | [Calculator](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day010_Calculator)|
 | 11 | [The_Blackjack_Capstone_Project](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day011_The_Blackjack_Capstone_Project)|
-| 08 | [Guess_the_number](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day012_Guess_the_number)|
+| 12 | [Guess_the_number](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day012_Guess_the_number)|
+| 14 | [Higher-Lower](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day014_Higher-Lower)|
+| 15 | [Coffee-Machine](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day015_Coffee-Machine)|
+| 15 | [Coffee-Maker](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day016_Coffee-Maker)|
+| 17 | [Quiz-Project](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day017_Quiz-Project)|
+| 17 | [Turtle-graphics](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day018_Turtle-graphics)|
