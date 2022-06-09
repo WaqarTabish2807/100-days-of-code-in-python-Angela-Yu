@@ -10,6 +10,13 @@ This repository will store all the related projects. If you are intrested in any
 | 12 | [Guess_the_number](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day012_Guess_the_number)|
 | 14 | [Higher-Lower](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day014_Higher-Lower)|
 | 15 | [Coffee-Machine](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day015_Coffee-Machine)|
-| 15 | [Coffee-Maker](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day016_Coffee-Maker)|
+| 16 | [Coffee-Maker](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day016_Coffee-Maker)|
 | 17 | [Quiz-Project](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day017_Quiz-Project)|
-| 17 | [Turtle-graphics](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day018_Turtle-graphics)|
+| 18 | [Turtle-graphics](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day018_Turtle-graphics)|
+| 19 | [Turtle-coordinate-system-quiz](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day019_Turtle-coordinate-system-quiz)|
+| 20 | [My-Snake-game](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day020_My-Snake-game)|
+| 22 | [Pong-game](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day022_Pong-game)|
+| 23 | [Car-manager](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day023_Car-manager)|
+| 25 | [US-State-Game](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day025_US-State-Game)|
+| 25 | [US-State-Game](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day025_US-State-Game)|
+| 26 | [Nato](https://github.com/WaqarTabish2807/100-days-of-code-in-python-Angela-Yu/tree/main/Day026_Nato)|
